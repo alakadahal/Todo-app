@@ -1,12 +1,8 @@
 {
-    "tasks": [
-        {
-            "id": 1,
-            "task": "Buy groceries"
-        },
-        {
-            "id": 2,
-            "task": "Do laundry"
-        }
-    ]
+  "tasks": [
+    {
+      "id": "ad98d41f-639e-4002-9ea7-83fdd8e7147d",
+      "text": "watch Mrs. movie"
+    }
+  ]
 }
